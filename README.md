@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **Kshitiz155@gmail.com**
 
-- [kshitiz155.github.io](kshitiz155.github.io/)
+- [kshitiz155.github.io](kshitiz155.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
