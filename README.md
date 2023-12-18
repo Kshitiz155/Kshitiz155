@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kshitiz kumar singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kshitiz kumar singh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kshitiz-kumar-singh-7b33b6117/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kshitiz kumar singh" height="30" width="40" /></a>
 <a href="https://codesandbox.com/kshitiz155" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="kshitiz155" height="30" width="40" /></a>
 <a href="https://instagram.com/kshitiz.kumarsingh.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kshitiz.kumarsingh.9" height="30" width="40" /></a>
 </p>
